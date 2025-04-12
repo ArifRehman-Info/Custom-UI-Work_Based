@@ -17,6 +17,7 @@
     "name": "Premium Plan",
     "price": 79.99,
     "unit": "month",
+    "popular":"true",
     "description": "For fitness enthusiasts with advanced goals.",
     "features": [
       "Everything in Standard Plan",
