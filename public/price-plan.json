@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": 29.99,
+    "unit": "month",
+    "description": "Perfect for casual users or beginners.",
+    "features": [
+      "Access to gym equipment",
+      "Locker room access",
+      "One free fitness assessment",
+      "Mon–Sat access during open hours"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "price": 79.99,
+    "unit": "month",
+    "description": "For fitness enthusiasts with advanced goals.",
+    "features": [
+      "Everything in Standard Plan",
+      "Unlimited personal training sessions",
+      "24/7 access",
+      "Nutrition consultation",
+      "Massage therapy (1/month)",
+      "Free merchandise"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Family Plan",
+    "price": 99.99,
+    "unit": "month",
+    "description": "Best value for families (up to 4 members).",
+    "features": [
+      "Access for up to 4 family members",
+      "All Standard Plan benefits",
+      "Free kids zone access",
+      "Family group classes",
+      "1 family personal training session/month"
+    ]
+  }
+]
