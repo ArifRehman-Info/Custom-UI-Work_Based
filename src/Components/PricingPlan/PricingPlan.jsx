@@ -8,14 +8,14 @@ const PricingPlan = ({ pricingPromise }) => {
     return (
         <div>
 
-            <h1 className='text-2xl'>Get Our Membership</h1>
+            <h1 className='text-2xl mx-10 my-4 border-b-2 w-56'>Get Our Membership</h1>
             <div className='grid  md:grid-cols-2 lg:grid-cols-3 gap-8 px-10'>
-                {/* {
+                {
                 priceData.map(prices=> <PricingCard 
                     key={prices.id}
                     prices={prices} ></PricingCard>)
                 
-                } */}
+                }
 
                 {
                   priceData.map(priceplan => <DaisyCard 
